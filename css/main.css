@@ -11770,7 +11770,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 }
 .t108-one-page #counters-services hr {
   width: 25px;
-  opacity: 0, 5;
+  opacity: 0.5;
 }
 .t108-one-page #counters-services .icon-services {
   color: #a5e200;
